@@ -18,4 +18,4 @@ COPY . /app/backend
 EXPOSE 8000
 #RUN python manage.py migrate
 #RUN python manage.py makemigrations
-#Testing to check github-webhook
+#Testing to checking github-webhook
